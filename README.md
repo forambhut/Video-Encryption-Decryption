@@ -7,7 +7,7 @@ The AES (Advanced Encryption Standard) algorithm is a symmetrical block cipher
 # Install Pycrypto Module
 
 The installation command for this module is:<br>
-<b><center>pip install pycrypto<b><center>
+<b><center>pip install pycrypto<b></center>
 <br><br>
   
 # Steps For ENCRYPTION
@@ -24,8 +24,8 @@ The installation command for this module is:<br>
  <br><br>
 
 # System View
-<center>
+
 ![image](https://user-images.githubusercontent.com/58871655/117016839-b6a0b700-ad10-11eb-92d7-debab972a288.png)<br>
 ![image](https://user-images.githubusercontent.com/58871655/117016881-c3bda600-ad10-11eb-84ec-f13228abaf54.png)<br>
 ![image](https://user-images.githubusercontent.com/58871655/117016905-ccae7780-ad10-11eb-9096-1d2002fb6df0.png)
-</center>
+
